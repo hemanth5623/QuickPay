@@ -1,9 +1,5 @@
 - Clone the repo
 
-```jsx
-git clone git@github.com:hemanth5623/QuickPay.git
-```
-
 - npm install
 - Run postgres either locally or on the cloud (neon.tech)
 
